@@ -1,23 +1,22 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQW93QKHw_AF56KVjAmnUYatHE3PrZBjGXcpRH1KCYe_99esfG2w", Coringa (joker) 2019
+https://www1002.hlsmp4.com/token=lSkaede6u1daD7TFvJsqFw/1570948229/138.121.0.0/57/1/5e/27d1bd81187c7d0812875ab65b0215e1-480p.mp4
+
 #EXTINF:1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Coringa
 http://thor.lhmtv.gq/filmes/coringats-dub-720p.mp4?LHMTv
-
 #EXTINF:1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Coringa Op2
 http://topiptv.tk/LHMTvPlay/Joker?LHMTv
 #EXTINF:1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Projeto Gemini LEG
 http://topiptv.tk/LHMTvPlay/Gemini-Man?LHMTv
-
 #EXTINF:0 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rambo: Ate o Fim
 http://thor.lhmtv.gq/filmes/ramboateofimts-dub-720p.mp4?LHMTv
 #EXTINF:0 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homem-Aranha: Longe de Casa HD
 http://thor.lhmtv.gq/filmes/homemaranhalongedecasa-dub-1080p.mp4?LHMTv
-
 #EXTINF:0 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Historia de Amor no Inverno
 http://topiptv.tk/LHMTvPlay/Winter-Love-Story?LHMTv
 #EXTINF:0 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ad Astra – Rumo as Estrelas LEG
 http://topiptv.tk/LHMTvPlay/Ad-Astra?LHMTv
-
 #EXTINF:0 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sombra Lunar
 http://topiptv.tk/LHMTvPlay/In-the-Shadow-of-the-Moon?LHMTv
 #EXTINF:0 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Dirt: Confissoes do Motley Crue
@@ -6906,188 +6905,4 @@ http://list.deeplist.nl:80/movie/bg2000309/2000309/11191.mp4
 http://list.deeplist.nl:80/movie/bg2000309/2000309/1362.mp4
 #EXTINF:0 tvg-id="" tvg-name="Absolutamente Impossível" tvg-logo="http://img.starbr.in/1565230749_2651a6679f5355292e268bc7d317e2b02cdfd7d3.jpg" group-title="Filme: Ficcao",Absolutamente Impossível
 http://list.deeplist.nl:80/movie/bg2000309/2000309/49020.mp4
-#EXTINF:0 tvg-id="" tvg-name="Absolutely Fabulous: O Filme" tvg-logo="http://img.starbr.in/1537551615_20292492ef731ccbad0f54f996ae34d1f2748f72.jpg" group-title="Filme: Comedia",Absolutely Fabulous: O Filme
-http://list.deeplist.nl:80/movie/bg2000309/2000309/29347.mp4
-#EXTINF:0 tvg-id="" tvg-name="Abulele" tvg-logo="http://img.starbr.in/1537467275_5cf53c914298726d77d05dd2cb19915e8e8d8284.jpg" group-title="Filme: Aventura",Abulele
-http://list.deeplist.nl:80/movie/bg2000309/2000309/29331.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acabando com o Sossego" tvg-logo="http://img.starbr.in/1546038848_d998a338013df269d15cf7d11a2fddeb1d65c7f5.jpg" group-title="Filme: Comedia",Acabando com o Sossego
-http://list.deeplist.nl:80/movie/bg2000309/2000309/37544.mp4
-#EXTINF:0 tvg-id="" tvg-name="Academia de Vampiros: O Beijo das Sombras" tvg-logo="http://img.starbr.in/1513876294_759a2a7c11a41894e10623fd3b7923ffc0c5cea4.jpg" group-title="Filme: Comedia",Academia de Vampiros: O Beijo das Sombras
-http://list.deeplist.nl:80/movie/bg2000309/2000309/11269.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acampamento de Férias" tvg-logo="http://img.starbr.in/1565230205_20e278d49ab9d0d3640afdf3210b7210f26be389.jpg" group-title="Filme: Nacional",Acampamento de Férias
-http://list.deeplist.nl:80/movie/bg2000309/2000309/49026.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acampamento de Gordinhos" tvg-logo="http://img.starbr.in/1546061371_612654d2fb42aa009fede6557203b99f81865c1d.jpg" group-title="Filme: Comedia",Acampamento de Gordinhos
-http://list.deeplist.nl:80/movie/bg2000309/2000309/37567.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acampamento de Gordinhos (Legendado)" tvg-logo="http://img.starbr.in/1559908669_0c901a2a1eae8df91a6ca203a08b945672e0beec.jpg" group-title="Filme: Comedia",Acampamento de Gordinhos (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40127.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acantilado (Legendado)" tvg-logo="http://img.starbr.in/1547083748_e0e409b617a1e38581b4ed4b5ccfc899125aaa24.jpg" group-title="Filme: Misterio",Acantilado (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/37453.mp4
-#EXTINF:0 tvg-id="" tvg-name="Ação Violenta" tvg-logo="http://img.starbr.in/1566439344_f6d61dbfff109a6c29d94c44f4c6712ee56652f5.jpg" group-title="Filme: Acao",Ação Violenta
-http://list.deeplist.nl:80/movie/bg2000309/2000309/49814.mp4
-#EXTINF:0 tvg-id="" tvg-name="Accident (Legendado)" tvg-logo="http://img.starbr.in/1547484269_878179a9d9b9435ee179aaf881743d81c5d5e29d.jpg" group-title="Filme: Acao",Accident (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/37924.mp4
-#EXTINF:0 tvg-id="" tvg-name="Ace Ventura 2: Um Maluco na África" tvg-logo="http://img.starbr.in/1559793402_1790d5c619c4970c3710f3568c695092edbc9e32.jpg" group-title="Filme: Comedia",Ace Ventura 2: Um Maluco na África
-http://list.deeplist.nl:80/movie/bg2000309/2000309/4944.mp4
-#EXTINF:0 tvg-id="" tvg-name="Ace Ventura: Um Detetive Diferente" tvg-logo="http://img.starbr.in/1512383520_3bfb550b19ef8259c796d3bda6cb081f6dbf0636.jpg" group-title="Filme: Comedia",Ace Ventura: Um Detetive Diferente
-http://list.deeplist.nl:80/movie/bg2000309/2000309/4943.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acertando as Contas com Papai" tvg-logo="http://img.starbr.in/1518520120_efb4b34b0d2e6a88d17fec2365e3e304420fc122.jpg" group-title="Filme: Comedia",Acertando as Contas com Papai
-http://list.deeplist.nl:80/movie/bg2000309/2000309/16641.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acertando o Passo" tvg-logo="http://img.starbr.in/1531514131_9fd94eb4fe93d83fb8f866ee05fbad6348c58dbc.jpg" group-title="Filme: Comedia Romantica",Acertando o Passo
-http://list.deeplist.nl:80/movie/bg2000309/2000309/24942.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acima de Qualquer Suspeita" tvg-logo="http://img.starbr.in/1559743509_752ce83c8d9d5f5f9a005d4f13d7a92152488642.jpg" group-title="Filme: Misterio",Acima de Qualquer Suspeita
-http://list.deeplist.nl:80/movie/bg2000309/2000309/46331.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aconteceu no Natal do Mickey" tvg-logo="http://img.starbr.in/1525277932_d61ea02ea38d5ccc9747190ee0c63ef00b2c1444.jpg" group-title="Filme: Animacao",Aconteceu no Natal do Mickey
-http://list.deeplist.nl:80/movie/bg2000309/2000309/18838.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acquaria" tvg-logo="http://img.starbr.in/1541517587_29da67e9ee8c4f875491e9deb54d8df3f1452353.jpg" group-title="Filme: Nacional",Acquaria
-http://list.deeplist.nl:80/movie/bg2000309/2000309/32920.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acredite em Lobisomens" tvg-logo="http://img.starbr.in/1527594746_4e41a709d0e510067d34d8fe5a8c81c723b75e49.jpg" group-title="Filme: Terror",Acredite em Lobisomens
-http://list.deeplist.nl:80/movie/bg2000309/2000309/21758.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acredite em Mim: O Rapto de Lisa McVey (Legendado)" tvg-logo="http://img.starbr.in/1543527541_c4ec65f5357ca35121c311651b08fef324a39e4c.jpg" group-title="Filme: Biografia",Acredite em Mim: O Rapto de Lisa McVey (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/34840.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acrimônia" tvg-logo="http://img.starbr.in/1528740208_379cb394587bff17c093773571bc81de1726e2f9.jpg" group-title="Filme: Drama",Acrimônia
-http://list.deeplist.nl:80/movie/bg2000309/2000309/23409.mp4
-#EXTINF:0 tvg-id="" tvg-name="Action Point" tvg-logo="http://img.starbr.in/1534350993_709a4bb7b8ca3a400f6a6a10c01c985c4cdd8bfb.jpg" group-title="Filme: Acao",Action Point
-http://list.deeplist.nl:80/movie/bg2000309/2000309/26666.mp4
-#EXTINF:0 tvg-id="" tvg-name="Acusada" tvg-logo="http://img.starbr.in/1567055547_a591496c4bfb49ec9ee2b598f6e772c1d8f037db.jpg" group-title="Filme: Policial",Acusada
-http://list.deeplist.nl:80/movie/bg2000309/2000309/50046.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adam Sandler: 100% Fresh" tvg-logo="http://img.starbr.in/1540849111_6b934e51b2b167a79324cc1ad25473288937afc7.jpg" group-title="Filme: Comedia",Adam Sandler: 100% Fresh
-http://list.deeplist.nl:80/movie/bg2000309/2000309/31967.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adele: Rolling in the Deep" tvg-logo="http://img.starbr.in/1553311121_2856957394104936d2715a5f2954d39dbf4062c9.jpg" group-title="Show: POP",Adele: Rolling in the Deep
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41426.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adele: Someone Like You" tvg-logo="http://img.starbr.in/1553311121_2856957394104936d2715a5f2954d39dbf4062c9.jpg" group-title="Show: POP",Adele: Someone Like You
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41427.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adeus Christopher Robin" tvg-logo="http://img.starbr.in/1521630779_8236cec02e026fc585aa0af7daad6157ed1d21ba.jpg" group-title="Filme: Biografia",Adeus Christopher Robin
-http://list.deeplist.nl:80/movie/bg2000309/2000309/17255.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adeus, Christopher Robin (Legendado)" tvg-logo="http://img.starbr.in/1548978529_3f8eccaac1e0c2036869394855f9d05de9e804db.jpg" group-title="Filme: Drama",Adeus, Christopher Robin (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/38488.mp4
-#EXTINF:0 tvg-id="" tvg-name="Admiradora Secreta" tvg-logo="http://img.starbr.in/1514979843_43f016c9e139b9067faaa9e0485990ea217bd845.jpg" group-title="Filme: Comedia Romantica",Admiradora Secreta
-http://list.deeplist.nl:80/movie/bg2000309/2000309/14077.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adonai: Faroeste - Cidade Verde" tvg-logo="http://img.starbr.in/1553957718_a0179fb55a569ba91653e7e6ae8637331426cc4e.jpg" group-title="Show: Reggae",Adonai: Faroeste - Cidade Verde
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41797.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adorável Professora" tvg-logo="http://img.starbr.in/1564539730_d8fd57017591b814b1a5a4efb86c17c91133edcd.jpg" group-title="Filme: Drama",Adorável Professora
-http://list.deeplist.nl:80/movie/bg2000309/2000309/48467.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adorável Sedutora" tvg-logo="http://img.starbr.in/1516877148_1bba46dcfb25d512cd6dd3c5df9ce906ad08f01c.jpg" group-title="Filme: Comedia Romantica",Adorável Sedutora
-http://list.deeplist.nl:80/movie/bg2000309/2000309/14935.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adrenalina" tvg-logo="http://img.starbr.in/1516966929_556c00135ae116e2e991cfbc800bad113bda500f.jpg" group-title="Filme: Acao",Adrenalina
-http://list.deeplist.nl:80/movie/bg2000309/2000309/14972.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adrenalina 2 - Alta Voltagem" tvg-logo="http://img.starbr.in/1516967101_2fba09271aca468d5915d3bba5f95039faaa9ec5.jpg" group-title="Filme: Acao",Adrenalina 2 - Alta Voltagem
-http://list.deeplist.nl:80/movie/bg2000309/2000309/14973.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adrenalina em Bangkok" tvg-logo="http://img.starbr.in/1527594998_83d558cdcee19e73ce9b7cd0a0d425adf001cde8.jpg" group-title="Filme: Acao",Adrenalina em Bangkok
-http://list.deeplist.nl:80/movie/bg2000309/2000309/21759.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adriana Calcanhotto: Devolva Me" tvg-logo="http://img.starbr.in/1556638283_88b867e8fef881d2044a2aeed005025f0f2a362b.jpg" group-title="Show: MPB",Adriana Calcanhotto: Devolva Me
-http://list.deeplist.nl:80/movie/bg2000309/2000309/43446.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adriana Calcanhotto: Fico Assim Sem Você" tvg-logo="http://img.starbr.in/1553826329_9e1020297096377f21ed40eb8e2effb28c73e96a.jpg" group-title="Show: MPB",Adriana Calcanhotto: Fico Assim Sem Você
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41742.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adriana Calcanhotto: Vambora" tvg-logo="http://img.starbr.in/1553826329_9e1020297096377f21ed40eb8e2effb28c73e96a.jpg" group-title="Show: MPB",Adriana Calcanhotto: Vambora
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41743.mp4
-#EXTINF:0 tvg-id="" tvg-name="Adultos Inexperientes" tvg-logo="http://img.starbr.in/1561513992_0704ab04a0216ecebd3ff619fb406b37583f3288.jpg" group-title="Filme: Comedia",Adultos Inexperientes
-http://list.deeplist.nl:80/movie/bg2000309/2000309/47015.mp4
-#EXTINF:0 tvg-id="" tvg-name="Advogado do Diabo" tvg-logo="http://img.starbr.in/1512650966_4730de5c90ee19cd7ea2bf2265318ef1bde8b0af.jpg" group-title="Filme: Fantasia",Advogado do Diabo
-http://list.deeplist.nl:80/movie/bg2000309/2000309/6099.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aeon Flux" tvg-logo="http://img.starbr.in/1551314001_0a6da1e335243e5b65f1451548fa81dc25570a15.jpg" group-title="Filme: Acao",Aeon Flux
-http://list.deeplist.nl:80/movie/bg2000309/2000309/39403.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aerosmith: I Dont Want to Miss a Thing" tvg-logo="http://img.starbr.in/1553311054_e73d621bd38a01c287930a79a15dd14dc1ab4aeb.jpg" group-title="Show: POP",Aerosmith: I Dont Want to Miss a Thing
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41428.mp4
-#EXTINF:0 tvg-id="" tvg-name="Affairs of State (Legendado)" tvg-logo="http://img.starbr.in/1537467194_84f566d93cf1b0776fc5dcb45d2bd494a83a0164.jpg" group-title="Filme: Drama",Affairs of State (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/29333.mp4
-#EXTINF:0 tvg-id="" tvg-name="África extraordinária" tvg-logo="http://img.starbr.in/1551313391_ddb07d04ffddc54ec3f82a25209d866d17f1d8de.jpg" group-title="Filme: Documentario",África extraordinária
-http://list.deeplist.nl:80/movie/bg2000309/2000309/39399.mp4
-#EXTINF:0 tvg-id="" tvg-name="África extraordinária" tvg-logo="http://img.starbr.in/1513349076_7e8d1196e000c3e3b2a250e39e724c0dee10f19a.jpg" group-title="Filme: Documentario",África extraordinária
-http://list.deeplist.nl:80/movie/bg2000309/2000309/9721.mp4
-#EXTINF:0 tvg-id="" tvg-name="Afrojack: Wave Your Flag ft. Luis Fonsi" tvg-logo="http://img.starbr.in/1563475197_817bdbbaa6613d1373e21c8fb182b944d9c69053.jpg" group-title="Show: Eletrônica",Afrojack: Wave Your Flag ft. Luis Fonsi
-http://list.deeplist.nl:80/movie/bg2000309/2000309/47802.mp4
-#EXTINF:0 tvg-id="" tvg-name="After" tvg-logo="http://img.starbr.in/1563239297_be436c17f7d6f86a0a15c452563bd987f99879d2.jpg" group-title="Filme: Romance",After
-http://list.deeplist.nl:80/movie/bg2000309/2000309/47680.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agenda: Payback (Legendado)" tvg-logo="http://img.starbr.in/1530993693_5d7e211f31c3183ffe71fef32cbe81ed36797395.jpg" group-title="Filme: Suspense",Agenda: Payback (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/24879.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agente 86" tvg-logo="http://img.starbr.in/1513697494_3f0b4d42dfb35277aadb4918d55626b114c2918e.jpg" group-title="Filme: Acao",Agente 86
-http://list.deeplist.nl:80/movie/bg2000309/2000309/10722.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agente 86 - Bruce e Lloyd - Fora de Controle" tvg-logo="http://img.starbr.in/1525400026_483d431cef7f594bf0f575091553dfc0afa1a59c.jpg" group-title="Filme: Comedia",Agente 86 - Bruce e Lloyd - Fora de Controle
-http://list.deeplist.nl:80/movie/bg2000309/2000309/19011.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agente de Separação" tvg-logo="http://img.myapp.st/1567733810_b7356274dd0e8329ce64d26803355db1ad026f28.jpg" group-title="Filme: Comedia",Agente de Separação
-http://list.deeplist.nl:80/movie/bg2000309/2000309/50415.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agente do Futuro" tvg-logo="http://img.starbr.in/1521818170_995a837a8f72fd291c6b305e6d460fae9da5f6a9.jpg" group-title="Filme: Ficcao",Agente do Futuro
-http://list.deeplist.nl:80/movie/bg2000309/2000309/17292.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agente Mirim" tvg-logo="http://img.starbr.in/1511956459_6b9b7f0b63336d614f4785eb5825f8ab9a711ad5.jpg" group-title="Filme: Misterio",Agente Mirim
-http://list.deeplist.nl:80/movie/bg2000309/2000309/1641.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agnus Dei" tvg-logo="http://img.starbr.in/1517311631_6c3158b765a849aae60697724f7a23c2bccd1e6b.jpg" group-title="Filme: Drama",Agnus Dei
-http://list.deeplist.nl:80/movie/bg2000309/2000309/15154.mp4
-#EXTINF:0 tvg-id="" tvg-name="Agora e Para Sempre" tvg-logo="http://img.starbr.in/1559825572_db44f52945814bf84325ac51cef8044f2a1febcf.jpg" group-title="Filme: Romance",Agora e Para Sempre
-http://list.deeplist.nl:80/movie/bg2000309/2000309/42788.mp4
-#EXTINF:0 tvg-id="" tvg-name="Água e Poder" tvg-logo="http://img.starbr.in/1565833901_f8169d03f2f179216b563a6b8ea4f25912af9fbe.jpg" group-title="Filme: Documentario",Água e Poder
-http://list.deeplist.nl:80/movie/bg2000309/2000309/49449.mp4
-#EXTINF:0 tvg-id="" tvg-name="Água para Elefantes" tvg-logo="http://img.starbr.in/1549669621_fdac3a894e19ceb0111da1d8a2acceac7d05fac5.jpg" group-title="Filme: Drama",Água para Elefantes
-http://list.deeplist.nl:80/movie/bg2000309/2000309/38649.mp4
-#EXTINF:0 tvg-id="" tvg-name="Água para Elefantes (Legendado)" tvg-logo="http://img.starbr.in/1549892286_ac56ec07145859ac62f879b34a1364e0f0e4d4af.jpg" group-title="Filme: Romance",Água para Elefantes (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/38811.mp4
-#EXTINF:0 tvg-id="" tvg-name="Águas Perigosas" tvg-logo="http://img.starbr.in/1513600557_4161bff43026cde4e43263f933f219b4e001fb6c.jpg" group-title="Filme: Aventura",Águas Perigosas
-http://list.deeplist.nl:80/movie/bg2000309/2000309/10311.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aguas rasa" tvg-logo="http://img.starbr.in/1559760583_e2d4d2fe80f8004740b7b6f3e2fc1159748c051d.png" group-title="Filme: Terror",Aguas rasa
-http://list.deeplist.nl:80/movie/bg2000309/2000309/1636.mp4
-#EXTINF:0 tvg-id="" tvg-name="Águas Rasas" tvg-logo="http://img.starbr.in/1513089659_81c7e7a4908a84e2d1e32d93eb3589ee60ad969a.jpg" group-title="Filme: Terror",Águas Rasas
-http://list.deeplist.nl:80/movie/bg2000309/2000309/7602.mp4
-#EXTINF:0 tvg-id="" tvg-name="Ainda Estamos Aqui" tvg-logo="http://img.starbr.in/1519646274_325b5b8f382b0675d94497d05798f475f5c51aa4.jpg" group-title="Filme: Terror",Ainda Estamos Aqui
-http://list.deeplist.nl:80/movie/bg2000309/2000309/16725.mp4
-#EXTINF:0 tvg-id="" tvg-name="Ainda Há Tempo" tvg-logo="http://img.starbr.in/1515408165_0d2d9b1794abe1f38188d9fafc58c8b9b7a2565f.jpg" group-title="Filme: Comedia",Ainda Há Tempo
-http://list.deeplist.nl:80/movie/bg2000309/2000309/14153.mp4
-#EXTINF:0 tvg-id="" tvg-name="Air America - Loucos Pelo Perigo" tvg-logo="http://img.starbr.in/1518088048_664eae840421d4f2108219ab9bc98e51f706bbd2.jpg" group-title="Filme: Comedia",Air America - Loucos Pelo Perigo
-http://list.deeplist.nl:80/movie/bg2000309/2000309/16429.mp4
-#EXTINF:0 tvg-id="" tvg-name="Air America Loucos Pelo Perigo" tvg-logo="http://img.starbr.in/1541517677_6c0dfb4205dd3fd706d7db49368e818b331ab73d.jpg" group-title="Filme: Aventura",Air America Loucos Pelo Perigo
-http://list.deeplist.nl:80/movie/bg2000309/2000309/32919.mp4
-#EXTINF:0 tvg-id="" tvg-name="Air Strike (Legendado)" tvg-logo="http://img.starbr.in/1541693316_fc61f494e5547c49e077051f191af946ecbf4d63.jpg" group-title="Filme: Acao",Air Strike (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/32980.mp4
-#EXTINF:0 tvg-id="" tvg-name="Ajin: Demi-Humano (Legendado)" tvg-logo="http://img.starbr.in/1541693656_d85b42e7733c1b5c758a6d01966b212f4b6f822b.jpg" group-title="Filme: Acao",Ajin: Demi-Humano (Legendado)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/32981.mp4
-#EXTINF:0 tvg-id="" tvg-name="Ajuste de Contas" tvg-logo="http://img.starbr.in/1512672001_9d4279df6d1cc618545dc27d4568c563211f7186.jpg" group-title="Filme: Comedia",Ajuste de Contas
-http://list.deeplist.nl:80/movie/bg2000309/2000309/6293.mp4
-#EXTINF:0 tvg-id="" tvg-name="Akira (1988)" tvg-logo="http://img.starbr.in/1512750947_7a7e84e357018a59e13b7bf698b780472c6d9757.jpg" group-title="Filme: Animacao",Akira (1988)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/6933.mp4
-#EXTINF:0 tvg-id="" tvg-name="Akon: Beautiful ft. Colby O Donis Kardinal Offishall" tvg-logo="http://img.starbr.in/1553090212_fd61f81c9e7a71e632bf205d69222148c11e432f.jpg" group-title="Show: RAP",Akon: Beautiful ft. Colby O Donis Kardinal Offishall
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41304.mp4
-#EXTINF:0 tvg-id="" tvg-name="Akon: Locked Up" tvg-logo="http://img.starbr.in/1553090212_fd61f81c9e7a71e632bf205d69222148c11e432f.jpg" group-title="Show: RAP",Akon: Locked Up
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41305.mp4
-#EXTINF:0 tvg-id="" tvg-name="Akon: Smack That" tvg-logo="http://img.starbr.in/1553090212_fd61f81c9e7a71e632bf205d69222148c11e432f.jpg" group-title="Show: RAP",Akon: Smack That
-http://list.deeplist.nl:80/movie/bg2000309/2000309/41306.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aladdin" tvg-logo="http://img.starbr.in/1566992746_2974dd37f35b23e5925093f04018e17c0d9b7701.jpg" group-title="Filme: Fantasia",Aladdin
-http://list.deeplist.nl:80/movie/bg2000309/2000309/50021.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aladdin (1992)" tvg-logo="http://img.starbr.in/1512750623_50f80972e4c905a0dd3ca492cd1fc2fba2565d9d.jpg" group-title="Filme: Animacao",Aladdin (1992)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/6935.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aladdin (Superfantagenio)" tvg-logo="http://img.starbr.in/1516703902_d44ffe04df26e4e622b64a2db760ec6699e70e93.jpg" group-title="Filme: Fantasia",Aladdin (Superfantagenio)
-http://list.deeplist.nl:80/movie/bg2000309/2000309/14893.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aladdin 2 - O Retorno de Jafar" tvg-logo="http://img.starbr.in/1513078957_de6ff7980e6f721bbce7a74ffc5d5cbde5c42540.jpg" group-title="Filme: Animacao",Aladdin 2 - O Retorno de Jafar
-http://list.deeplist.nl:80/movie/bg2000309/2000309/7521.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aladdin E os 40 Ladrões" tvg-logo="http://img.starbr.in/1513078899_0cc70de27788a546bf8320d8e54b622962e9440a.jpg" group-title="Filme: Animacao",Aladdin E os 40 Ladrões
-http://list.deeplist.nl:80/movie/bg2000309/2000309/7522.mp4
-#EXTINF:0 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa" tvg-logo="http://img.starbr.in/1524511199_f8676877e61ca4e4f30cf6eebae25ef365f50fbf.jpg" group-title="Filme: Nacional",Aladim e a Lâmpada Maravilhosa
-http://list.deeplist.nl:80/movie/bg2000309/2000309/18328.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker & Steve Aoki: Lonely" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker & Steve Aoki: Lonely
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40733.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Alex Skrindo Sky" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Alex Skrindo Sky
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40618.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Alive" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Alive
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40726.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: All Falls Down" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: All Falls Down
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40612.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Alone" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Alone
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40613.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Diamond Heart" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Diamond Heart
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40614.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Different World" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Different World
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40615.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Force" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Force
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40727.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Hope" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Hope
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40728.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Lay" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Lay
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40620.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Lily" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Lily
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40610.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Long Road" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Long Road
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40729.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Lost Control" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Lost Control
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40616.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: Memories" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: Memories
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40730.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: New Energy" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712a09d332974c875842f.png" group-title="Show: Eletrônica",Alan Walker: New Energy
-http://list.deeplist.nl:80/movie/bg2000309/2000309/40731.mp4
-#EXTINF:0 tvg-id="" tvg-name="Alan Walker: New Heart" tvg-logo="http://img.starbr.in/1552940631_20105e51e46393ae8d2712
+#EXTINF:0 tvg-id="" tvg-name="Absolutely Fabulous: O
